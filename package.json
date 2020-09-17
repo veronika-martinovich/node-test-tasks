@@ -1,0 +1,28 @@
+{
+  "name": "node-notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veronika-martinovich/node-notes-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veronika-martinovich/node-notes-app/issues"
+  },
+  "homepage": "https://github.com/veronika-martinovich/node-notes-app#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "validator": "^13.1.1",
+    "yargs": "^16.0.3"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.0"
+  }
+}
